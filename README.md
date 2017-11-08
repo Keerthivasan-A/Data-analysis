@@ -1,5 +1,3 @@
-# Project-911-Calls
-Analyzing the calls received by 911 using Python libraries.
+This repository contains projects that I worked for learning data analysis by using python libraries.
 
-
-<script src="https://gist.github.com/Keerthivasan-A/c5ff3dfa57e5656d47738db3692ceaa4.js"></script>
+911 Calls (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/c81fefb9aa3f6b5e4a2c48bbbc2f5a19" target="_blank"> View project </a>)
